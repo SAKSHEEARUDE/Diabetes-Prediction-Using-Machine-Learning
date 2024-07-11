@@ -9,7 +9,7 @@ This project demonstrates how to classify diabetes data using logistic regressio
 <li>Training the Model: A logistic regression model is created and trained on the training data.</li>
 <li>Making Predictions: The trained model makes predictions on the test data.</li>
 <li>Evaluating the Model: The model's performance is evaluated using accuracy, confusion matrix, and a detailed classification report including precision, recall, and F1-score.</li>
-<\ul>
+</ul>
 
 <h3>Results</h3>
 The evaluation metrics are printed to the console, providing insights into the model's accuracy and performance on the test data.
