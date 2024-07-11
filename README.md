@@ -2,7 +2,7 @@
 This project demonstrates how to classify diabetes data using logistic regression in Python. The dataset used is the diabetes dataset from the scikit-learn library. The target values in this dataset are binarized to create a classification problem where the objective is to predict whether a patient's diabetes measure is greater than 140.
 
 <h2>Steps Covered</h2>
-Importing Libraries: Necessary libraries like numpy, pandas, and scikit-learn are imported for data manipulation and machine learning.<br>
+<li></li>Importing Libraries: Necessary libraries like numpy, pandas, and scikit-learn are imported for data manipulation and machine learning.</li>
 Loading the Dataset: The diabetes dataset is loaded, and the target values are binarized.<br>
 Splitting the Data: The data is split into training and testing sets to evaluate the model's performance accurately.<br>
 Training the Model: A logistic regression model is created and trained on the training data.<br>
